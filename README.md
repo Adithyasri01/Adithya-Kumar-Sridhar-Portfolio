@@ -1212,9 +1212,9 @@
                 <div class="timeline-item">
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <div class="timeline-date">Dec 2022 - July 2025</div>
+                        <div class="timeline-date">Dec 2024 - July 2025</div>
                         <h3 class="timeline-title">Data Analyst / Business Research Analyst</h3>
-                        <p class="timeline-company">CraftStudio</p>
+                        <p class="timeline-company">Freelancer</p>
                         <ul>
                             <li>Analysed large, multi-source datasets to identify trends, risks, and growth opportunities, supporting data-driven strategic decisions</li>
                             <li>Built interactive dashboards using Power BI and Excel, reducing manual reporting efforts by approximately 40%</li>
@@ -1228,9 +1228,9 @@
                 <div class="timeline-item">
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <div class="timeline-date">Feb 2018 - Dec 2022</div>
+                        <div class="timeline-date">Feb 2018 - Dec 2024</div>
                         <h3 class="timeline-title">DVP, Special Quality Assurance</h3>
-                        <p class="timeline-company">Kotak Mahindra Bank Ltd</p>
+                        <p class="timeline-company">Kotak Life</p>
                         <ul>
                             <li>Led quality assurance initiatives ensuring compliance with regulatory standards</li>
                             <li>Developed data-driven quality metrics and reporting frameworks</li>
@@ -1242,9 +1242,9 @@
                 <div class="timeline-item">
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <div class="timeline-date">Aug 2016 - Feb 2018</div>
+                        <div class="timeline-date">Sep 2016 - Jan 2018</div>
                         <h3 class="timeline-title">Team Leader</h3>
-                        <p class="timeline-company">BCAS Electrical Division</p>
+                        <p class="timeline-company">Flemingo DFS</p>
                         <ul>
                             <li>Managed team operations and performance metrics</li>
                             <li>Implemented data-driven decision making processes</li>
@@ -1329,7 +1329,7 @@
                 </div>
                 <div class="education-card">
                     <div class="education-degree">B.Tech – Electrical and Electronics Engineering</div>
-                    <div class="education-school">SASTRA University</div>
+                    <div class="education-school">Bharath University</div>
                     <span class="education-status completed">Completed 2013</span>
                 </div>
             </div>
